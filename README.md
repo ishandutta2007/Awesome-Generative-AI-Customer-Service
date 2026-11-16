@@ -66,7 +66,7 @@ The sector is currently **highly fragmented** rather than winner-take-all: tradi
 > [!TIP]  
 > Self-hosted and open-source customer support software gives engineering teams full control over vector retrieval, LLM latency, privacy guardrails, and per-resolution SaaS fees. Sorted descending by GitHub stargazers count.
 
-| 📦 Repository & Project | ⭐ Star Count | 📝 Description | 💡 Key Strengths |
+| 📦 Repository & Project | ⭐ Stars_Count | 📝 Description | 💡 Key Strengths |
 |:---|:---|:---|:---|
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | [![Open WebUI Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Extensible, self-hosted AI interface supporting Ollama, OpenAI-compatible APIs, RAG, and multi-user team customer service pipelines. | 🌐 Local LLM runner, zero external data leakage, RBAC |
 | **[LibreChat](https://github.com/danny-avila/LibreChat)** | [![LibreChat Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers) | Self-hosted multi-provider AI platform with Model Context Protocol (MCP) support, custom endpoints, plugins, and agent creation. | 🔌 Model-agnostic, enterprise SSO (SAML/OAuth), MCP ecosystem |
@@ -103,7 +103,7 @@ Contributions, project suggestions, and documentation fixes are warmly welcomed!
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a descriptive feature branch: `git checkout -b feature/add-new-support-tool`.
-3. ✍️ Add the SaaS or open-source tool following existing table schemas (ensuring specific pricing, trial terms, or star badges).
+3. ✍️ Add the SaaS or open-source tool following existing table schemas (ensuring specific pricing, trial terms, or Stars_Badges).
 4. 🚀 Push changes and submit a clean Pull Request!
 
 Check out other awesome lists at [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
@@ -131,3 +131,12 @@ If this curated repository saved your team time, helped you evaluate vendors, or
 - This list is community-curated for informational and architectural research purposes; it does not constitute commercial endorsement.
 - All product names, logos, and brands are property of their respective owners.
 - Customer support AI agents directly interface with end-users and sensitive data: always perform your own vulnerability assessments, security testing, and privacy audits before running autonomous AI in production environments.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Generative-AI-Customer-Service&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Generative-AI-Customer-Service_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Generative-AI-Customer-Service_growth.svg">
+  </picture>
+</a>
