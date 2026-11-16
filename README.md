@@ -1,6 +1,6 @@
 # Awesome-Generative-AI-Customer-Service
 
-# Top Generative AI Customer Service Ecosystem
+## Top Generative AI Customer Service Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Agentic Support Automation, RAG-Grounded Resolution & Self-Hosted Customer Service Engines*  
